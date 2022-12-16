@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restudent Managment System", "Restudent Managment System.csproj", "{CC9DCEC1-3B3E-497F-8CB2-1028630523BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9DCEC1-3B3E-497F-8CB2-1028630523BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9DCEC1-3B3E-497F-8CB2-1028630523BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9DCEC1-3B3E-497F-8CB2-1028630523BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9DCEC1-3B3E-497F-8CB2-1028630523BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36D43043-F35C-4361-8BB5-6C39C20AF3C9}
+	EndGlobalSection
+EndGlobal
